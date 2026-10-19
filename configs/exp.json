@@ -1,0 +1,11 @@
+{
+  "seeds": [42, 1337, 2026],
+  "reuse_rates": [0.001, 0.01, 0.05],
+  "expand_per_key": 5,
+  "test_frac": 0.5,
+  "window_sizes": [100, 1000, 10000],
+  "bloom_bits_per_item": [4, 8, 16],
+  "target_recall_for_window": 0.9,
+  "timing_reps": 3,
+  "bootstrap_resamples": 300
+}

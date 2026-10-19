@@ -1,0 +1,77 @@
+[
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-GCM-1.0\\prompt.json",
+    "sha256": "2ab9f4076e6c4c444b866a9d8f37d72250a0f42f2b07773a9f9c55971e312216",
+    "bytes": 15700
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-GCM-1.0\\expectedResults.json",
+    "sha256": "1a958346f9415a023b6aff92c91239afd2512a3a6fd113b76d55785131fa8456",
+    "bytes": 6364
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-GCM-1.0\\internalProjection.json",
+    "sha256": "859ec02ecd43e569ad9f380fd5c9e149cc97a9eb50447c14a0bd67420b058c61",
+    "bytes": 23082
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-GMAC-1.0\\prompt.json",
+    "sha256": "02b305fe0b639b4fd0fa93e6e30be1bf3f620b3f29ada304701ce89c3fed9d1e",
+    "bytes": 13537
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-GMAC-1.0\\expectedResults.json",
+    "sha256": "eb8b8480b129365cc58decb13cd7c67643209eef949223777c6d15b249aef88e",
+    "bytes": 5243
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-GMAC-1.0\\internalProjection.json",
+    "sha256": "d60765faab024f8ac6d8205d1c8c45e6eb011ca6563dc6adfc1c09503061e0fb",
+    "bytes": 21281
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-XPN-1.0\\prompt.json",
+    "sha256": "d3c365a399e09fe9b209ed94a1429229e0d038b5fe5660a8cd68f948ae5afbd2",
+    "bytes": 45061
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-XPN-1.0\\expectedResults.json",
+    "sha256": "36511120d51772097d1ddfc841de0d3514333342b4350809d52d2d37e52d9aed",
+    "bytes": 16597
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-XPN-1.0\\internalProjection.json",
+    "sha256": "0eba3653198914a855f84d523817586b45831534a6cda72096d6b1f8153626b3",
+    "bytes": 63705
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-CCM-1.0\\prompt.json",
+    "sha256": "fa693c288fee0f5c4511cc33731ae5c48511a335b9b4f904ca5a6d8eff1c3546",
+    "bytes": 3103476
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-CCM-1.0\\expectedResults.json",
+    "sha256": "b248b71a4cb6598a7bb6f512f537ba365cf89e749b4ece8dab949532b84dbaae",
+    "bytes": 972562
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-CCM-1.0\\internalProjection.json",
+    "sha256": "238043e70e60f7152e3bad6fb94fc38e10283ce1712318004540ff653e0012e0",
+    "bytes": 3967217
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-CCM-ECMA-1.0\\prompt.json",
+    "sha256": "9f1571b4c955c274e4059aeef0e3ede7f3c108860d4fb98126bd26be92373485",
+    "bytes": 29465
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-CCM-ECMA-1.0\\expectedResults.json",
+    "sha256": "d494f84abd95a9b59e0ca6f049c554e25d25792fdd80a71e6339ca64d1e8ea2f",
+    "bytes": 12507
+  },
+  {
+    "file": "data\\raw\\ACVP-Server\\gen-val\\json-files\\ACVP-AES-CCM-ECMA-1.0\\internalProjection.json",
+    "sha256": "53290744bfc86f4edfd7c8dc373e786fc796d7423f1176e8ef139cf5e77aff8f",
+    "bytes": 37807
+  }
+]

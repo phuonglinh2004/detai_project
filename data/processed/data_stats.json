@@ -1,0 +1,45 @@
+{
+  "files_read": 15,
+  "rows_read": 17276,
+  "unique_pairs": 8638,
+  "duplicates_removed": 8638,
+  "distinct_keys": 8638,
+  "per_algorithm": {
+    "ACVP-AES-GCM-1.0": {
+      "rows_read": 120,
+      "unique_pairs": 60
+    },
+    "ACVP-AES-GMAC-1.0": {
+      "rows_read": 120,
+      "unique_pairs": 60
+    },
+    "ACVP-AES-XPN-1.0": {
+      "rows_read": 240,
+      "unique_pairs": 120
+    },
+    "ACVP-AES-CCM-1.0": {
+      "rows_read": 16620,
+      "unique_pairs": 8310
+    },
+    "ACVP-AES-CCM-ECMA-1.0": {
+      "rows_read": 176,
+      "unique_pairs": 88
+    }
+  },
+  "nonce_hex_length_distribution": {
+    "26": 3090,
+    "14": 870,
+    "22": 870,
+    "20": 870,
+    "24": 1050,
+    "30": 60,
+    "16": 870,
+    "18": 870,
+    "32": 88
+  },
+  "key_hex_length_distribution": {
+    "48": 2770,
+    "32": 3038,
+    "64": 2830
+  }
+}
